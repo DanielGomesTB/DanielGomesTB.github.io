@@ -1,0 +1,34 @@
+body {
+    background-color:rgb(255, 253, 257)
+}
+
+h1 , p {
+    font-family:monospace;
+}
+.secao1{
+    background-color: red;
+    height: 400px;
+}
+
+.secao1 h1{
+    text-align: center;
+}
+
+.secao1 p {
+   position: absolute;
+   top: 10px;
+   right: 30px;
+}
+
+.secao1 img {
+    float: right;
+    width: 200px;
+    border-radius: 100%;
+    padding: 5px;
+    background-color: rgb(220, 230, 224);
+    
+}
+
+.secao2 {
+    background-color: blue;
+}
